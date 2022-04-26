@@ -1,5 +1,5 @@
 # examen_integrador
-Menendez Balbi Manuel
+Manuel Menendez Balbi
 Atilio Scolaro
 Lucas Jimenez
 Guido Piotrowski
